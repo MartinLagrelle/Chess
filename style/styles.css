@@ -1,0 +1,68 @@
+body div div{
+    height: 75px;
+    width: 75px;
+}
+
+body :nth-child(1){
+    display: flex;
+}
+
+body :nth-child(2){
+    display: flex;
+}
+
+body :nth-child(3){
+    display: flex;
+}
+
+body :nth-child(4){
+    display: flex;
+}
+
+body :nth-child(5){
+    display: flex;
+}
+
+body :nth-child(6){
+    display: flex;
+}
+
+body :nth-child(7){
+    display: flex;
+}
+
+body :nth-child(8){
+    display: flex;
+}
+
+body :nth-child(1) :nth-child(even){
+    background-color: black;
+}
+
+body :nth-child(2) :nth-child(odd){
+    background-color: black;
+}
+
+body :nth-child(3) :nth-child(even){
+    background-color: black;
+}
+
+body :nth-child(4) :nth-child(odd){
+    background-color: black;
+}
+
+body :nth-child(5) :nth-child(even){
+    background-color: black;
+}
+
+body :nth-child(6) :nth-child(odd){
+    background-color: black;
+}
+
+body :nth-child(7) :nth-child(even){
+    background-color: black;
+}
+
+body :nth-child(8) :nth-child(odd){
+    background-color: black;
+}
